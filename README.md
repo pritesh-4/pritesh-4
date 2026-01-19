@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Developers ! 👋
 # 💫 About Me:
 ⚔️I'm interested in programming and electronics-based projects.<br>💻I'm learning web development especially front-end development.<br>📜I do solo research on physics and kind of interested in astronomy.
 
