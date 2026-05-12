@@ -3,7 +3,7 @@
 <img src="https://terminal-identity-opal.vercel.app/api?name=Pritesh+Jena&username=Pritesh-4&role=Web+developer+%26+problem+solver.&tagline=Thanks+for+stopping+by+to+witness+my+journey.&status=shipping+after+dark&command=npx+terminal-identity&theme=amber%2Faurora&avatar=AF&pattern=rings&width=980&height=auto&showLangs=on&showContribs=on&iconSize=sm&motion=boot&contribTheme=constellation&contribRange=1y" width="100%" alt="Terminal identity card" />
 <br>
 
-![Hacker](https://coolreadme.xyz/api/hacker?user=pritesh-4&status=MERGED%20v6.12&accent=%2300FF88)
+![Hacker](https://coolreadme.xyz/api/hacker?user=pritesh-4&status=in%20love%20with%20my%20web%20novel&accent=%23014D4E)
 
 <br>
 
