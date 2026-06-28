@@ -9,7 +9,7 @@
 - 🎓 Undergraduate at NIT Rourkela, Interested in tech
 - 🌱 Currently interested in DSA, AI, LLM and Machine Learning
 - 🎯 Building cool projects inspired from sci-fi
-- 🤝 Open to Internships, Freelance work, and meaningful collaborations
+- 🤝 Feel free to reach me for anything
 
 
 ## 🧠 My Focus Areas
